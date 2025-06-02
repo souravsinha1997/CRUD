@@ -1,7 +1,7 @@
 # CRUD
 
 This project is for testing the CRUD operation and API functionality.
-This can be run using Docker.
+Project can be downloaded and run on local or this can be run using Docker also.
 And Swagger is added for API documentation.
 
 STEPS:
